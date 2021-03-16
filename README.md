@@ -6,6 +6,10 @@ Initialize a project for UI Team
 
 ## Tutorial begins
 ### Requirement
+
+```
+Structure has change and custom follow structure of Mr.Sen( Tuân ) handsome. thanks so much
+```
 - Node/NPM
 - Now - Zeit
     - Install _now_ using npm
@@ -19,10 +23,8 @@ Initialize a project for UI Team
 You need to install all these thing & have a bitbucket account before you continue to read this document. Follow [the previous tutorial](/@Namtech/tutorial-setup-ubuntu) to setup your working space on Ubuntu.
 :::
 
-#### Included Package
-- Bootstrap
-- Jquery
-- Fontawesome
+#### Included Package 
+- Jquery 
 
 #### [Pug](https://pugjs.org/api/getting-started.html)
 - variables
@@ -40,52 +42,6 @@ You need to install all these thing & have a bitbucket account before you contin
 
 ### [PugSass Kit](https://bitbucket.org/namtech/pugsass-kit/src/master/)
 Download this kit. Click [here](https://www.dropbox.com/sh/nlnho6grcsxcwzn/AACGQbVWw0GVgtsdXrizlmY7a?dl=0).
-
-#### Structure
-```
-|-- pugsass-kit/
-|------ src/
-|------ ---- assets/
-|------ ---- ---- fonts/
-|------ ---- ---- ---- font-name/
-|------ ---- ---- ---- ---- *.ott
-|------ ---- ---- ---- ---- *.otf
-|------ ---- ---- imgs/
-|------ ---- ---- ---- *.png
-|------ ---- ---- ---- *.jpg
-|------ ---- ---- ---- *.svg
-|------ ---- ---- videos/
-|------ ---- ---- ---- *.mp4
-|------ ---- ---- webfonts/
-|------ ---- ---- ---- *.woff
-|------ ---- ---- ---- *.woff2
-|------ ---- ---- ---- *.svg
-|------ ---- ---- ---- *.ttf
-|------ ---- ---- ---- *.eot
-|------ ---- pugs/
-|------ ---- ---- parts/
-|------ ---- ---- ---- include/
-|------ ---- ---- ---- ---- header.pug
-|------ ---- ---- ---- ---- footer.pug
-|------ ---- ---- ---- layout.pug
-|------ ---- ---- 404.pug
-|------ ---- ---- index.pug
-|------ ---- sass/
-|------ ---- ---- commom.scss
-|------ ---- ---- main.scss
-|------ ---- ---- variables.scss
-|------ ---- data/
-|------ ---- ---- *.js
-|------ ---- scripts/
-|------ ---- ---- functions/
-|------ ---- ---- ---- *.js
-|------ ---- ---- scripts.js
-|------ .env.sample
-|------ .gitignore
-|------ gulpfile.js
-|------ package.json
-|------ Readme.md
-```
 
 #### Setup
 - After download the _*.zip_ file. Unzip it.
