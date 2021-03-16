@@ -3,7 +3,10 @@ Initialize a project for UI Team
 
 ## Table of content
 [TOC]
+```
+Lưu ý: Structure & config đã được thay đổi theo Structure của Sen không theo cấu trúc của PugSass Kit
 
+```
 ## Tutorial begins
 ### Requirement
 - Node/NPM
@@ -19,11 +22,8 @@ Initialize a project for UI Team
 You need to install all these thing & have a bitbucket account before you continue to read this document. Follow [the previous tutorial](/@Namtech/tutorial-setup-ubuntu) to setup your working space on Ubuntu.
 :::
 
-#### Included Package
-- Bootstrap
-- Jquery
-- Fontawesome
-
+#### Included Package 
+- Jquery 
 #### [Pug](https://pugjs.org/api/getting-started.html)
 - variables
 - interpolation
