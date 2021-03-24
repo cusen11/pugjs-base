@@ -10,22 +10,8 @@ Initialize a project for UI Team
 ```
 Structure has change and custom follow structure of Mr.Sen( Tuân ) handsome. thanks so much
 ```
-- Node/NPM
-- Now - Zeit
-    - Install _now_ using npm
-    - Create an Zeit account with your email (yourname@namtech.com.au) or your personal email
-- Visual Code Editor
-- Bitbucket repository
-    - Log in to your bitbucket account with your email (yourname@namtech.com.au) or your personal email
-
-:::danger
-❗️📣 **Attention**
-You need to install all these thing & have a bitbucket account before you continue to read this document. Follow [the previous tutorial](/@Namtech/tutorial-setup-ubuntu) to setup your working space on Ubuntu.
-:::
-
 #### Included Package 
 - Jquery 
-
 #### [Pug](https://pugjs.org/api/getting-started.html)
 - variables
 - interpolation
