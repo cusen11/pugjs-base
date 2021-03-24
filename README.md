@@ -10,6 +10,10 @@ Initialize a project for UI Team
 ```
 Structure has change and custom follow structure of Mr.Sen( Tuân ) handsome. thanks so much
 ```
+```
+Install:
+ + NodeJS : https://nodejs.org/en/
+```
 #### Included Package 
 - Jquery 
 #### [Pug](https://pugjs.org/api/getting-started.html)
